@@ -1,0 +1,21 @@
+html{
+margin: 0;
+padding: 0;
+background: gray;
+height: 100%;
+width: 100%;
+position: fixed;
+}
+
+.wrapper{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+svg{
+    max-width: 80vw;
+}
